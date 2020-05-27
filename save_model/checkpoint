@@ -1,0 +1,4 @@
+model_checkpoint_path: "save_net.ckpt-9399"
+all_model_checkpoint_paths: "save_net.ckpt-9211"
+all_model_checkpoint_paths: "save_net.ckpt-9305"
+all_model_checkpoint_paths: "save_net.ckpt-9399"
