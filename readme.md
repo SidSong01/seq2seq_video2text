@@ -22,6 +22,24 @@ Hw2_seq2seq.sh _ _ _
 * (_ _ _ here represent "the data directory", "the test data directory", "and the name of the output(.txt)"
 the name of the output(.txt) = final_output.txt)
 
+`OR`
+
+```sh
+model_train.py
+```
+for training.
+
+```sh
+model_test.py
+```
+for testing.
+
+```sh
+bleu_eval.py
+```
+for output bleu score.
+
+
 ## Results
 
 * the bleu score is about 0.7
