@@ -4,12 +4,17 @@
 [//]: # (Image References)
 
 [image1]: ./TZ860P4iTaM_15_28.gif
+[image2]: ./Annotation%202020-05-27%20014911.png
 
 * tensorflow 1.15
 
 * python 3.6
 
 * the training data: https://drive.google.com/open?id=1sSFbOU928jYp1xGx4PF4_hV8_w2kDQ-j
+
+## Model architecture
+
+![alt text][image2]
 
 ## Details About How to Play
 
