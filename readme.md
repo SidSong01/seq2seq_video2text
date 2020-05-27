@@ -5,11 +5,11 @@
 
 [image1]: ./TZ860P4iTaM_15_28.gif
 
-*tensorflow 1.15
+* tensorflow 1.15
 
-*python 3.6
+* python 3.6
 
-### the training data: https://drive.google.com/open?id=1sSFbOU928jYp1xGx4PF4_hV8_w2kDQ-j
+* the training data: https://drive.google.com/open?id=1sSFbOU928jYp1xGx4PF4_hV8_w2kDQ-j
 
 ## Details About How to Play
 
@@ -32,6 +32,6 @@ the name of the output(.txt) = final_output.txt)
 
 ![alt text][image1]
 
-* a cat is playing the piano
+`a cat is playing the piano`
 
 ### reference paper: http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf
