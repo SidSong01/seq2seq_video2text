@@ -1,4 +1,7 @@
-# Tensorflow implementation of seq2seq_v2t, caption generation for videos (video to text)
+# Tensorflow implementation of seq2seq_v2t
+
+## Video caption generation (video to text)
+
 ---
 
 [//]: # (Image References)
