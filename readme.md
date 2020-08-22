@@ -2,24 +2,25 @@
 
 ## Video caption generation (video to text)
 
----
+
 
 [//]: # (Image References)
 
 [image1]: ./TZ860P4iTaM_15_28.gif
 [image2]: ./Annotation%202020-05-27%20014911.png
 
+### Requirements
 * tensorflow 1.15
 
 * python 3.6
 
 * the training data: https://drive.google.com/open?id=1sSFbOU928jYp1xGx4PF4_hV8_w2kDQ-j
 
-## Model architecture
+### Model architecture
 
 ![alt text][image2]
 
-## Details About How to Play
+### Details About How to Play
 
 run
 
@@ -48,7 +49,7 @@ bleu_eval.py
 for output bleu score.
 
 
-## Results
+### Results
 
 * the bleu score is about 0.7
 
@@ -60,4 +61,4 @@ for output bleu score.
 
 `a cat is playing the piano`
 
-### reference paper: http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf
+#### Reference paper: http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf
