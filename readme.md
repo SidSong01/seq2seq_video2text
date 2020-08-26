@@ -51,7 +51,7 @@ for output bleu score.
 
 ### Results
 
-* the bleu score is about 0.7
+* the bleu score is about 0.7, there is lots of ways to better it, such as making use of attention model, ...
 
 * detailed description please refer to the pdf report, thanks.
 
