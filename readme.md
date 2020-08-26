@@ -24,6 +24,7 @@
 
 run
 
+* For running the testing program and then evaluate it wiht bleu score:
 ```sh
 Hw2_seq2seq.sh _ _ _
 ```
