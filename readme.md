@@ -2,7 +2,7 @@
 
 ## Video caption generation (video to text)
 
-This is the second assignment of CPSC 8810, Clemson Palemtto is used.
+This is the second assignment of CPSC 8810, [Clemson University Palemtto](https://www.palmetto.clemson.edu/palmetto/) has been used.
 
 [//]: # (Image References)
 
